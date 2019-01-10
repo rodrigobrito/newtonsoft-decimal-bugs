@@ -1,0 +1,15 @@
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\NewtonDecimalBug-v10.0.3.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\NewtonDecimalBug-v10.0.3.pdb
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\obj\Debug\NewtonDecimalBug-v10.0.3.csproj.CoreCompileInputs.cache
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\obj\Debug\NewtonDecimalBug-v10.0.3.csproj.CopyComplete
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\obj\Debug\NewtonDecimalBug-v10.0.3.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\obj\Debug\NewtonDecimalBug-v10.0.3.pdb
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Newtonsoft.Json10x.dll
+C:\source\NewtonDecimalBugs\NewtonDecimalBug-v10.0.3\bin\Debug\Newtonsoft.Json11x.dll
